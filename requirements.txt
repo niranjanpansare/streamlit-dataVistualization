@@ -13,4 +13,3 @@ openpyxl
 xlrd
 pandas-profiling
 streamlit-pandas-profiling
-color
