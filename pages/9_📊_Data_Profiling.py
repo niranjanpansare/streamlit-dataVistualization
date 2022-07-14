@@ -14,6 +14,7 @@ hide_streamlit_style = """
             
             </style>
             """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 def get_filesize(file):
     size_bytes = sys.getsizeof(file)
