@@ -11,3 +11,5 @@ pillow
 opencv-python
 openpyxl
 xlrd
+pandas-profiling
+streamlit-pandas-profiling
